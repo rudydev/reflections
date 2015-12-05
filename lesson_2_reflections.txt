@@ -1,0 +1,19 @@
+Lesson 2 Reflections document
+-----------------------------
+date: December 5th, 2015
+
+Reflect: Initializing a Repository
+
+What happens when you initialize a repository? Why do you need to do it?
+=> When I initialize the repo, a .git directory is created and all metadata associated with the new repo is created inside the direcory
+Also any files inside the repo are automatically marked as untracked and the repo git resources have track of that unless you later "add"
+then to the repo.
+
+=> in order to initiate file tracking and versioning
+
+Reflect: Staging Area
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+=> The staging area is a layer to put selected changed files to be later added to the repo instead of every file with changes.
+
+=> selectivity
