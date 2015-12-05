@@ -17,3 +17,10 @@ How is the staging area different from the working directory and the repository?
 => The staging area is a layer to put selected changed files to be later added to the repo instead of every file with changes.
 
 => selectivity
+
+Reflect: Commit Size
+
+How can you use the staging area to make sure you have one commit per logical change?
+=> one can add files as they are modified into the staging. Then at the end (in a different timeframe) review and compare using git diff --staged
+an in one sitting decide which changes will be committed. And commit the appropriate desired changed files only. Then one can reset other non desired
+changes at the end.
