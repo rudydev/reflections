@@ -1,0 +1,31 @@
+How did  viewing a diff between 2 vversions helped you spot the bug?
+=> it summarized, simplified, and automated the manual seach that would've taken more time.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+=> having to worry less on versions of files assures that I dedicate more time to programming logic and have an easy way to rollback to older versions of files without having to invest time with manual version management
+
+Reflect: manual commits
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+=> manual commits give one control over when the file is saved and keep a version id to associate it, and would allow to write a description of the change made. Automatic commits or saves would probably sometimes save the file for you but would not be able to describe the changes it automatically captured
+
+Reflect: Multi-File Commits
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+=> Git allows that because it treats changes of multiple files for each repository, which is the intention of Version Control in a programming project. In Google docs we usually work on independent files that are not as complex as programming projects and that do not depend upon other files.
+
+Reflect: Using Git to View History
+
+How can you use the commands git log and git diff to view the history of files?
+=> git log would allow me to indentify commits with ids and descriptions of those commits. And git diff would allow me to see deletions, modifications/additions from 2 files. Basically the changes from 1 commit to another.
+
+Reflect: Confidence from Version Control
+
+How might using version control make you more confident to make changes that could break something?
+=>it makes me more confident since I can always easily spot the version that introduced the bug and rollback to previous versions of the code.
+
+Reflect: How Do You Want to Use Git?
+
+Now that you have your workspace set up, what do you want to try using Git for?
+=> For a programming project, or for work actually.
+
