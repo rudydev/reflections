@@ -1,0 +1,7 @@
+Lesson 3 Reflections File
+-------------------------
+
+Reflect: using a remote repository
+
+When would you want to use a remote repository rather than keeping all your work local?
+=> When you want to collaborate more easily with peer developers or share the files and content with non-tech savy users
