@@ -43,3 +43,8 @@ What is the result of merging two branches together? Why do we represent it in t
 => Create a branch with the head pointer on the master, containing both independent branches in the master 
 
 => Because separate branches get together into one
+
+Reflect: Automatic vs. Manual Merging
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+=> Automatic doesn't let one control the merging step of the branches, manually doing it leaves one with control over that operation
