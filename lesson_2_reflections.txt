@@ -35,4 +35,11 @@ What are some situations when branches would be helpful in keeping your history 
 Reflect: Visualizing with Diagrams
 
 How do the diagrams help you visualize the branch structure?
-=> They help since they render graphically in a way the human brain understands it better. 
+=> They help since they render graphically in a way the human brain understands it better.
+
+Reflect: Merging Two Branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+=> Create a branch with the head pointer on the master, containing both independent branches in the master 
+
+=> Because separate branches get together into one
