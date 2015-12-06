@@ -10,3 +10,9 @@ Reflect: Manual vs Automatic Pull
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 => There might be pulls that would address earlier development so one would like manually control what to pull and when
+
+Reflect: Forks, Clones, and Branches
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+=> Fork is a github copy of a repo within github. Clone is a local copy of a repo from another location locally or remotely, example would be from
+github to a local directory. A branch is a local linear repo copy to be worked on changes which would later be merged to master.
