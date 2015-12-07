@@ -30,3 +30,10 @@ How would you collaborate without using Git or GitHub? What would be easier? Wha
 => Don't know
 
 => Getting everybody aware of file changes in real time
+
+Reflect: When to use a separate branch
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+=> When you are adding changes that should not take effect until it is revised by peers, so then later you can merge them with master
+
+=> Benefits: peer colaboration, multiple merges on same file from other branches to master, easier conflict resolution and visualization, among many others
