@@ -21,3 +21,12 @@ Reflect: Local copies of remote branches
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 => you can modify it offline and travel. Later when online, one can push in and merge changes to the remote repo.
+
+Reflect: Collaboration Using Git and GitHub
+
+How would you collaborate without using Git or GitHub? What would be easier? What would be harder?
+=> Using emails
+
+=> Don't know
+
+=> Getting everybody aware of file changes in real time
